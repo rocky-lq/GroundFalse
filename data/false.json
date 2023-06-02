@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "statement": "Zero is a positive or negative number.",
+    "fact": "Zero is neither positive nor negative.",
+    "category": "math"
+  },
+  {
+    "id": 2,
+    "statement": "All rectangles are squares.",
+    "fact": "Not all rectangles are squares; only those with all sides equal are squares.",
+    "category": "math"
+  },
+  {
+    "id": 3,
+    "statement": "The square root of a number can be negative.",
+    "fact": "The square root of a number is always non-negative in the realm of real numbers.",
+    "category": "math"
+  },
+  {
+    "id": 4,
+    "statement": "Parallel lines intersect in plane geometry.",
+    "fact": "Parallel lines never intersect by definition in plane geometry.",
+    "category": "math"
+  },
+  {
+    "id": 5,
+    "statement": "The number 1 is a prime number.",
+    "fact": "The number 1 is not a prime number. A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.",
+    "category": "math"
+  },
+  {
+    "id": 6,
+    "statement": "Negative numbers do not have square roots.",
+    "fact": "Negative numbers do have square roots, but they are imaginary numbers.",
+    "category": "math"
+  },
+  {
+    "id": 7,
+    "statement": "The set of rational numbers is the same as the set of real numbers.",
+    "fact": "The set of rational numbers (numbers that can be expressed as the quotient of two integers) is a subset of real numbers, but there are real numbers that are not rational, such as pi or e.",
+    "category": "math"
+  },
+  {
+    "id": 8,
+    "statement": "The number 0 has an inverse.",
+    "fact": "The number 0 does not have an inverse, as division by 0 is undefined.",
+    "category": "math"
+  },
+  {
+    "id": 9,
+    "statement": "Pi is a rational number.",
+    "fact": "Pi is an irrational number, it cannot be precisely expressed as a ratio of two integers.",
+    "category": "math"
+  },
+  {
+    "id": 10,
+    "statement": "Negative numbers are larger than positive numbers.",
+    "fact": "Positive numbers are always larger than negative numbers.",
+    "category": "math"
+  },
+  {
+    "id": 11,
+    "statement": "Infinity is the largest number.",
+    "fact": "Infinity is not a number; it's a concept of endlessness.",
+    "category": "math"
+  },
+  {
+    "id": 12,
+    "statement": "Every even number is divisible by 4.",
+    "fact": "Not every even number is divisible by 4. Only those even numbers are divisible by 4 which are multiple of 4.",
+    "category": "math"
+  },
+  {
+    "id": 13,
+    "statement": "The sum of two negative numbers is positive.",
+    "fact": "The sum of two negative numbers is always negative.",
+    "category": "math"
+  },
+  {
+    "id": 14,
+    "statement": "You can divide a number by zero.",
+    "fact": "Division by zero is undefined.",
+    "category": "math"
+  },
+  {
+    "id": 15,
+    "statement": "Every integer is a rational number.",
+    "fact": "Every integer can be expressed as a rational number, but not every rational number is an integer.",
+    "category": "math"
+  },
+  {
+    "id": 16,
+    "statement": "A triangle can have two right angles.",
+    "fact": "A triangle cannot have more than one right angle.",
+    "category": "math"
+  },
+  {
+    "id": 17,
+    "statement": "A decimal number is always smaller than its corresponding fraction.",
+    "fact": "A decimal number can be greater, smaller or equal to its corresponding fraction.",
+    "category": "math"
+  },
+  {
+    "id": 18,
+    "statement": "Two negative numbers multiplied together give a negative result.",
+    "fact": "Two negative numbers multiplied together give a positive result.",
+    "category": "math"
+  },
+  {
+    "id": 19,
+    "statement": "The angles in a triangle add up to more than 180 degrees.",
+    "fact": "The angles in a triangle always add up to exactly 180 degrees.",
+    "category": "math"
+  },
+  {
+    "id": 20,
+    "statement": "The product of two fractions is always smaller than the original fractions.",
+    "fact": "The product of two fractions can be larger, smaller, or equal to the original fractions, depending on their values.",
+    "category": "math"
+  },
+  {
+    "id": 21,
+    "statement": "Subtracting a positive number from a negative number makes the number larger.",
+    "fact": "Subtracting a positive number from a negative number makes the number more negative (smaller).",
+    "category": "math"
+  },
+  {
+    "id": 22,
+    "statement": "All circles are similar.",
+    "fact": "All circles are the same shape, but not necessarily the same size.",
+    "category": "math"
+  },
+  {
+    "id": 23,
+    "statement": "A line segment has infinite length.",
+    "fact": "A line segment has a finite length, as it has two endpoints.",
+    "category": "math"
+  },
+  {
+    "id": 24,
+    "statement": "Multiplying a number by one changes the number.",
+    "fact": "Multiplying a number by one does not change the number.",
+    "category": "math"
+  },
+  {
+    "id": 25,
+    "statement": "A number raised to the power of zero is zero.",
+    "fact": "Any number (except zero) raised to the power of zero is one.",
+    "category": "math"
+  },
+  {
+    "id": 26,
+    "statement": "You can take the square root of a negative number in the set of real numbers.",
+    "fact": "You cannot take the square root of a negative number in the set of real numbers. The square root of a negative number is an imaginary number.",
+    "category": "math"
+  },
+  {
+    "id": 27,
+    "statement": "All equilateral triangles are isosceles.",
+    "fact": "All equilateral triangles are isosceles, but not all isosceles triangles are equilateral.",
+    "category": "math"
+  },
+  {
+    "id": 28,
+    "statement": "A fraction is always less than one.",
+    "fact": "A fraction can be less than, equal to, or greater than one.",
+    "category": "math"
+  },
+  {
+    "id": 29,
+    "statement": "The sum of the angles in a quadrilateral is 360 degrees.",
+    "fact": "The sum of the angles in a quadrilateral is 360 degrees, but it does not apply to all polygons.",
+    "category": "math"
+  },
+  {
+    "id": 30,
+    "statement": "The decimal representation of a rational number always terminates.",
+    "fact": "The decimal representation of a rational number can either terminate or repeat.",
+    "category": "math"
+  },
+  {
+    "id": 31,
+    "statement": "A number and its absolute value are always the same.",
+    "fact": "A number and its absolute value are the same if the number is positive or zero, but not when the number is negative.",
+    "category": "math"
+  },
+  {
+    "id": 32,
+    "statement": "The sum of the interior angles of a polygon is always 180 degrees.",
+    "fact": "The sum of the interior angles of a polygon depends on the number of sides. For a triangle, it's 180 degrees.",
+    "category": "math"
+  },
+  {
+    "id": 33,
+    "statement": "An obtuse triangle has one angle that is smaller than 90 degrees.",
+    "fact": "An obtuse triangle has one angle that is greater than 90 degrees.",
+    "category": "math"
+  },
+  {
+    "id": 34,
+    "statement": "A scalene triangle has at least two sides of equal length.",
+    "fact": "A scalene triangle has all sides of different lengths.",
+    "category": "math"
+  },
+  {
+    "id": 35,
+    "statement": "The order of operations in mathematics is optional.",
+    "fact": "The order of operations in mathematics is not optional; it follows the BIDMAS/BODMAS rule.",
+    "category": "math"
+  },
+  {
+    "id": 36,
+    "statement": "A prime number can have more than two distinct positive divisors.",
+    "fact": "A prime number has exactly two distinct positive divisors: 1 and the number itself.",
+    "category": "math"
+  },
+  {
+    "id": 37,
+    "statement": "In a right triangle, the hypotenuse is always the shortest side.",
+    "fact": "In a right triangle, the hypotenuse is always the longest side.",
+    "category": "math"
+  },
+  {
+    "id": 38,
+    "statement": "Zero is the smallest natural number.",
+    "fact": "One is considered the smallest natural number; zero is not typically included in the set of natural numbers.",
+    "category": "math"
+  },
+  {
+    "id": 39,
+    "statement": "Every real number is an integer.",
+    "fact": "Not every real number is an integer. Integers are a subset of real numbers.",
+    "category": "math"
+  },
+  {
+    "id": 40,
+    "statement": "An acute angle is larger than a right angle.",
+    "fact": "An acute angle is smaller than a right angle.",
+    "category": "math"
+  },
+  {
+    "id": 41,
+    "statement": "A percentage can never be more than 100%.",
+    "fact": "A percentage can be more than 100%.",
+    "category": "math"
+  },
+  {
+    "id": 42,
+    "statement": "All lines are line segments.",
+    "fact": "All line segments are lines, but not all lines are line segments.",
+    "category": "math"
+  },
+  {
+    "id": 43,
+    "statement": "In an isosceles triangle, all three sides are of equal length.",
+    "fact": "In an isosceles triangle, only two sides are of equal length.",
+    "category": "math"
+  },
+  {
+    "id": 44,
+    "statement": "The sum of two odd numbers is odd.",
+    "fact": "The sum of two odd numbers is even.",
+    "category": "math"
+  },
+  {
+    "id": 45,
+    "statement": "The product of two odd numbers is even.",
+    "fact": "The product of two odd numbers is odd.",
+    "category": "math"
+  },
+  {
+    "id": 46,
+    "statement": "If two shapes are congruent, they have the same size, but not necessarily the same shape.",
+    "fact": "If two shapes are congruent, they have the exact same shape and size.",
+    "category": "math"
+  },
+  {
+    "id": 47,
+    "statement": "Multiplying a number by zero results in the original number.",
+    "fact": "Multiplying a number by zero results in zero.",
+    "category": "math"
+  },
+  {
+    "id": 48,
+    "statement": "The value of 'pi' is exactly 22/7.",
+    "fact": "The value of 'pi' is approximately 22/7, but it's an irrational number and can't be expressed exactly as any fraction.",
+    "category": "math"
+  },
+  {
+    "id": 49,
+    "statement": "All square numbers are even.",
+    "fact": "Not all square numbers are even. If the square root is even, then the square is even. But if the square root is odd, then the square is odd.",
+    "category": "math"
+  },
+  {
+    "id": 50,
+    "statement": "A negative number squared is a negative number.",
+    "fact": "A negative number squared is a positive number because the product of two negative numbers is positive.",
+    "category": "math"
+  },
+  {
+    "id": 1,
+    "statement": "Objects in motion eventually come to a rest.",
+    "fact": "According to Newton's first law, an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.",
+    "category": "physics"
+  },
+  {
+    "id": 2,
+    "statement": "Heavier objects fall faster than lighter ones.",
+    "fact": "In the absence of air resistance, all objects fall at the same rate regardless of their mass.",
+    "category": "physics"
+  },
+  {
+    "id": 3,
+    "statement": "Energy can be created and destroyed.",
+    "fact": "According to the first law of thermodynamics, energy cannot be created or destroyed, only transferred or changed from one form to another.",
+    "category": "physics"
+  },
+  {
+    "id": 4,
+    "statement": "Gravity doesn't exist in space.",
+    "fact": "Gravity exists everywhere in the universe, including space. It keeps the planets in orbit around the sun.",
+    "category": "physics"
+  },
+  {
+    "id": 5,
+    "statement": "Atoms are the smallest particles of matter.",
+    "fact": "Atoms are not the smallest particles of matter. They are composed of smaller particles like protons, neutrons, and electrons.",
+    "category": "physics"
+  },
+  {
+    "id": 6,
+    "statement": "Cold is transferred from one object to another.",
+    "fact": "Heat, not cold, is transferred from one object to another. We feel something is cold because it is taking heat from us, not giving us cold.",
+    "category": "physics"
+  },
+  {
+    "id": 7,
+    "statement": "The speed of light is infinite.",
+    "fact": "The speed of light is not infinite. It is approximately 299,792 kilometers per second in vacuum.",
+    "category": "physics"
+  },
+  {
+    "id": 8,
+    "statement": "Matter can be converted into pure energy.",
+    "fact": "While matter can be converted into energy (and vice versa), this process is never 100% efficient, and some matter is always left behind.",
+    "category": "physics"
+  },
+  {
+    "id": 9,
+    "statement": "Time is absolute and is the same for everyone everywhere.",
+    "fact": "According to the theory of relativity, time is relative and can vary depending on the observer's speed and gravitational field.",
+    "category": "physics"
+  },
+  {
+    "id": 10,
+    "statement": "Sound can travel through vacuum.",
+    "fact": "Sound needs a medium to travel and cannot travel through vacuum.",
+    "category": "physics"
+  },
+  {
+    "id": 11,
+    "statement": "Light is only a wave.",
+    "fact": "Light exhibits both wave-like and particle-like properties. This is known as wave-particle duality.",
+    "category": "physics"
+  },
+  {
+    "id": 12,
+    "statement": "Nuclear reactors can explode like nuclear bombs.",
+    "fact": "Nuclear reactors cannot explode like nuclear bombs. The types and quantities of nuclear material used in reactors and bombs are different.",
+    "category": "physics"
+  },
+  {
+    "id": 13,
+    "statement": "Electric current is the flow of positive charges.",
+    "fact": "Electric current is actually the flow of negative charges (electrons). The direction of current is defined as the direction positive charges would flow.",
+    "category": "physics"
+  },
+  {
+    "id": 14,
+    "statement": "The earth's magnetic field is caused by all the iron in its core.",
+    "fact": "The earth's magnetic field is caused by electric currents in the liquid part of its core, not by the iron itself.",
+    "category": "physics"
+  },
+  {
+    "id": 15,
+    "statement": "The force exerted by a stationary object is zero.",
+    "fact": "A stationary object can exert a force, such as the normal force of a table supporting a book or the gravitational force of the Earth on a satellite.",
+    "category": "physics"
+  },
+  {
+    "id": 16,
+    "statement": "Objects that are not in motion have no energy.",
+    "fact": "Stationary objects can have potential energy, such as a book on a high shelf has gravitational potential energy.",
+    "category": "physics"
+  },
+  {
+    "id": 17,
+    "statement": "Heat and temperature are the same thing.",
+    "fact": "Heat is a form of energy transfer, whereas temperature is a measure of the average kinetic energy of the particles in a substance.",
+    "category": "physics"
+  },
+  {
+    "id": 18,
+    "statement": "Charged particles are attracted to both poles of a magnet.",
+    "fact": "It's moving charged particles that are affected by a magnetic field. Stationary charged particles are not attracted to magnets.",
+    "category": "physics"
+  },
+  {
+    "id": 19,
+    "statement": "Acceleration and velocity are the same thing.",
+    "fact": "Acceleration is the rate of change of velocity with time, they are not the same thing.",
+    "category": "physics"
+  },
+  {
+    "id": 20,
+    "statement": "Quantum mechanics is only applicable to particles smaller than atoms.",
+    "fact": "Quantum mechanics is applicable to all particles, but its effects are most noticeable on the scale of atoms and smaller particles.",
+    "category": "physics"
+  },
+  {
+    "id": 21,
+    "statement": "All isotopes of a given element are radioactive.",
+    "fact": "Not all isotopes of a given element are radioactive. Many isotopes are stable.",
+    "category": "physics"
+  },
+  {
+    "id": 22,
+    "statement": "A conductor has no resistance.",
+    "fact": "While conductors have low resistance, they do not have zero resistance, except in the case of superconductors at extremely low temperatures.",
+    "category": "physics"
+  },
+  {
+    "id": 23,
+    "statement": "The natural state of an object is at rest.",
+    "fact": "An object's natural state, according to Newton's first law, is to maintain its current state of motion, be it at rest or in uniform motion.",
+    "category": "physics"
+  },
+  {
+    "id": 24,
+    "statement": "The force of gravity on an object is its weight.",
+    "fact": "The force of gravity acting on an object is not the object's weight. The weight of an object is the force of gravity acting on it, but directed downward.",
+    "category": "physics"
+  },
+  {
+    "id": 25,
+    "statement": "All radiation is harmful.",
+    "fact": "Not all radiation is harmful. While ionizing radiation can be harmful, non-ionizing radiation, such as visible light or radio waves, is typically not harmful.",
+    "category": "physics"
+  },
+  {
+    "id": 26,
+    "statement": "Atoms are solid spheres.",
+    "fact": "Atoms are not solid spheres. They are mostly empty space, with a dense nucleus containing protons and neutrons and electrons 'orbiting' far away.",
+    "category": "physics"
+  },
+  {
+    "id": 27,
+    "statement": "Black holes are holes in space.",
+    "fact": "Black holes are not holes in space, they are regions of space with extremely high gravitational force.",
+    "category": "physics"
+  },
+  {
+    "id": 28,
+    "statement": "Space is completely empty.",
+    "fact": "Space is not completely empty, it is filled with cosmic dust, radiation, and particles like protons and electrons.",
+    "category": "physics"
+  },
+  {
+    "id": 29,
+    "statement": "A vacuum is a region of space without gravity.",
+    "fact": "A vacuum is a region of space where matter (like air) has been removed. Gravity still exists in a vacuum.",
+    "category": "physics"
+  },
+  {
+    "id": 30,
+    "statement": "Absolute zero is the point at which all molecular motion stops.",
+    "fact": "At absolute zero, molecules would have minimal, but not zero, motion due to quantum mechanical effects.",
+    "category": "physics"
+  },
+  {
+    "id": 31,
+    "statement": "Light travels faster in denser mediums.",
+    "fact": "Light actually travels slower in denser mediums. This is why it bends when entering or leaving materials like water or glass.",
+    "category": "physics"
+  },
+  {
+    "id": 32,
+    "statement": "Lasers work by focusing light onto a single point.",
+    "fact": "Lasers work by stimulating a uniform emission of photons, not by focusing light onto a single point.",
+    "category": "physics"
+  },
+  {
+    "id": 33,
+    "statement": "The universe is static and unchanging.",
+    "fact": "The universe is not static and unchanging, it is expanding and evolving.",
+    "category": "physics"
+  },
+  {
+    "id": 34,
+    "statement": "The speed of sound is independent of the frequency.",
+    "fact": "In some mediums, like gases and liquids, the speed of sound is almost independent of frequency. However, in solids, it can depend on the frequency.",
+    "category": "physics"
+  },
+  {
+    "id": 35,
+    "statement": "A positive charge and a negative charge repel each other.",
+    "fact": "A positive charge and a negative charge attract each other.",
+    "category": "physics"
+  },
+  {
+    "id": 36,
+    "statement": "Magnetism and gravity are the same force.",
+    "fact": "Magnetism and gravity are separate forces. Gravity is a force of attraction between masses, and magnetism is a force between moving charges.",
+    "category": "physics"
+  },
+  {
+    "id": 37,
+    "statement": "Light is affected by gravity.",
+    "fact": "Despite having no mass, light is indeed affected by gravity, as confirmed by gravitational lensing observations.",
+    "category": "physics"
+  },
+  {
+    "id": 38,
+    "statement": "Only metals are conductive.",
+    "fact": "While metals are often conductive, many non-metal materials, including certain ceramics and polymers, can also conduct electricity.",
+    "category": "physics"
+  },
+  {
+    "id": 39,
+    "statement": "Magnetic fields can be shielded completely.",
+    "fact": "While certain materials known as 'mu-metals' can greatly reduce magnetic fields, they cannot completely eliminate them.",
+    "category": "physics"
+  },
+  {
+    "id": 40,
+    "statement": "Protons and electrons are the same size.",
+    "fact": "Protons are significantly larger than electrons. A proton's volume is about 1.67 x 10^-45 cubic meters, while an electron's is less than 1 x 10^-57 cubic meters.",
+    "category": "physics"
+  },
+  {
+    "id": 41,
+    "statement": "Electrons in atoms orbit the nucleus just like planets orbit the sun.",
+    "fact": "Electrons do not orbit the nucleus in the way planets orbit the sun. Instead, they exist in a cloud-like region around the nucleus known as an electron cloud.",
+    "category": "physics"
+  },
+  {
+    "id": 42,
+    "statement": "Objects weigh less at the equator.",
+    "fact": "Objects actually weigh slightly more at the poles than at the equator due to the Earth's rotation.",
+    "category": "physics"
+  },
+  {
+    "id": 43,
+    "statement": "Lightning never strikes the same place twice.",
+    "fact": "Lightning can and does strike the same place multiple times, especially if it's a tall, pointy, isolated object.",
+    "category": "physics"
+  },
+  {
+    "id": 44,
+    "statement": "There is no gravity in space.",
+    "fact": "There is gravity everywhere in space. It's the force that keeps planets in orbit around the sun and governs the motion of galaxies.",
+    "category": "physics"
+  },
+  {
+    "id": 45,
+    "statement": "The Earth's rotation does not affect how objects fall.",
+    "fact": "Due to the Coriolis effect caused by the Earth's rotation, objects do not fall straight down but follow a slightly curved path.",
+    "category": "physics"
+  },
+  {
+    "id": 46,
+    "statement": "Time slows down near a black hole.",
+    "fact": "Time actually appears to speed up for an observer near a black hole due to gravitational time dilation.",
+    "category": "physics"
+  },
+  {
+    "id": 47,
+    "statement": "The speed of light changes in the presence of a gravitational field.",
+    "fact": "The speed of light remains constant even in the presence of a gravitational field. However, the path light takes may be curved by gravity, making it appear to slow down.",
+    "category": "physics"
+  },
+  {
+    "id": 48,
+    "statement": "We can feel the Earth spinning.",
+    "fact": "We don't feel the Earth spinning because we are moving with it at a constant speed.",
+    "category": "physics"
+  },
+  {
+    "id": 49,
+    "statement": "Darker objects are hotter than lighter objects.",
+    "fact": "Darker objects absorb more heat than lighter objects, but that doesn't necessarily mean they are hotter. The temperature of an object depends on its heat absorption, heat emission, and its specific heat capacity.",
+    "category": "physics"
+  },
+  {
+    "id": 50,
+    "statement": "Electrons in a wire move at the speed of light when an electric current is applied.",
+    "fact": "While the electric signal moves close to the speed of light, the actual electrons move much slower, at speeds on the order of centimeters per hour.",
+    "category": "physics"
+  },
+  {
+    "id": 1,
+    "statement": "Water is flammable.",
+    "fact": "Water is not flammable. It is a stable compound that does not undergo combustion.",
+    "category": "chemistry"
+  },
+  {
+    "id": 2,
+    "statement": "Carbon dioxide is a poisonous gas.",
+    "fact": "Carbon dioxide is not inherently poisonous. It is a naturally occurring component of the atmosphere, but high concentrations can displace oxygen and cause asphyxiation.",
+    "category": "chemistry"
+  },
+  {
+    "id": 3,
+    "statement": "All acids are corrosive.",
+    "fact": "While many acids can be corrosive, not all acids exhibit corrosive properties. Some acids are weak and less corrosive.",
+    "category": "chemistry"
+  },
+  {
+    "id": 4,
+    "statement": "All metals are magnetic.",
+    "fact": "Not all metals are magnetic. Only certain metals, such as iron, nickel, and cobalt, are magnetic.",
+    "category": "chemistry"
+  },
+  {
+    "id": 5,
+    "statement": "All chemical reactions produce heat.",
+    "fact": "Not all chemical reactions produce heat. Some reactions absorb heat and are endothermic.",
+    "category": "chemistry"
+  },
+  {
+    "id": 6,
+    "statement": "All organic compounds are harmful to humans.",
+    "fact": "Not all organic compounds are harmful. Many organic compounds are essential for life and have beneficial effects on humans.",
+    "category": "chemistry"
+  },
+  {
+    "id": 7,
+    "statement": "Oxygen is only present in the gas phase.",
+    "fact": "Oxygen exists in all three states of matter: gas, liquid, and solid, depending on temperature and pressure.",
+    "category": "chemistry"
+  },
+  {
+    "id": 8,
+    "statement": "All chemical compounds are odorless.",
+    "fact": "Many chemical compounds have distinct odors. For example, sulfur compounds often have a strong smell.",
+    "category": "chemistry"
+  },
+  {
+    "id": 9,
+    "statement": "All compounds containing carbon are organic.",
+    "fact": "Not all compounds containing carbon are organic. Inorganic carbon compounds, such as carbon dioxide, do not contain carbon-carbon bonds.",
+    "category": "chemistry"
+  },
+  {
+    "id": 10,
+    "statement": "All acids are sour in taste.",
+    "fact": "Not all acids are sour. Some acids, like citric acid found in lemons, are sour, but others, like hydrochloric acid, are not consumed due to their corrosive nature.",
+    "category": "chemistry"
+  },
+  {
+    "id": 11,
+    "statement": "All chemical reactions are irreversible.",
+    "fact": "Many chemical reactions are reversible and can proceed in both forward and backward directions under suitable conditions.",
+    "category": "chemistry"
+  },
+  {
+    "id": 12,
+    "statement": "All compounds with a sweet taste are sugars.",
+    "fact": "Not all compounds with a sweet taste are sugars. Some artificial sweeteners are not sugars but provide a sweet taste.",
+    "category": "chemistry"
+  },
+  {
+    "id": 13,
+    "statement": "All alkali metals are highly reactive with water.",
+    "fact": "Not all alkali metals are highly reactive with water. While metals like sodium and potassium react vigorously, others like lithium react more slowly or even form a protective oxide layer.",
+    "category": "chemistry"
+  },
+  {
+    "id": 14,
+    "statement": "All chemical reactions produce visible color changes.",
+    "fact": "Many chemical reactions do not produce visible color changes. Some reactions may be colorless or occur in a range of colors not easily discernible.",
+    "category": "chemistry"
+  },
+  {
+    "id": 15,
+    "statement": "All compounds that dissolve in water are salts.",
+    "fact": "Not all compounds that dissolve in water are salts. Many compounds, including sugars and alcohols, can dissolve in water without forming ionic bonds.",
+    "category": "chemistry"
+  },
+  {
+    "id": 16,
+    "statement": "All gases are lighter than air.",
+    "fact": "Not all gases are lighter than air. Some gases, like sulfur hexafluoride, are denser than air and can sink.",
+    "category": "chemistry"
+  },
+  {
+    "id": 17,
+    "statement": "All bases are slippery to the touch.",
+    "fact": "Not all bases are slippery. While many bases are soapy and slippery, some bases may not exhibit this characteristic.",
+    "category": "chemistry"
+  },
+  {
+    "id": 18,
+    "statement": "All noble gases are chemically inert.",
+    "fact": "While noble gases are generally considered chemically inert, some noble gases, such as xenon and krypton, can form compounds under specific conditions.",
+    "category": "chemistry"
+  },
+  {
+    "id": 19,
+    "statement": "All chemical reactions produce bubbles.",
+    "fact": "Not all chemical reactions produce bubbles. Bubbles are often a sign of a gas being released, but many reactions occur without visible gas production.",
+    "category": "chemistry"
+  },
+  {
+    "id": 20,
+    "statement": "All acids have a pH less than 7.",
+    "fact": "While most acids have a pH less than 7, there are exceptions. Some acids, such as acetic acid in vinegar, have a pH slightly higher than 7.",
+    "category": "chemistry"
+  },
+  {
+    "id": 21,
+    "statement": "All chemicals with a pungent smell are toxic.",
+    "fact": "Not all chemicals with a pungent smell are toxic. Some compounds may have a strong smell but are not harmful in small quantities.",
+    "category": "chemistry"
+  },
+  {
+    "id": 22,
+    "statement": "All chemical reactions release light.",
+    "fact": "Not all chemical reactions release light. While some reactions produce light as a result of exothermic processes, many reactions do not exhibit visible light emission.",
+    "category": "chemistry"
+  },
+  {
+    "id": 23,
+    "statement": "All substances with a metallic appearance are metals.",
+    "fact": "Not all substances with a metallic appearance are metals. Some non-metallic materials, such as graphite, can have a metallic appearance.",
+    "category": "chemistry"
+  },
+  {
+    "id": 24,
+    "statement": "All isotopes of an element have the same chemical properties.",
+    "fact": "Isotopes of an element have similar chemical properties, but the presence of different numbers of neutrons can affect their stability and reactivity.",
+    "category": "chemistry"
+  },
+  {
+    "id": 25,
+    "statement": "All acids can dissolve metals.",
+    "fact": "Not all acids can dissolve metals. While some acids, like hydrochloric acid, can dissolve certain metals, others, like sulfuric acid, may not react with all metals.",
+    "category": "chemistry"
+  },
+  {
+    "id": 26,
+    "statement": "All chemical compounds have a fixed melting point.",
+    "fact": "Not all chemical compounds have a fixed melting point. Some compounds exhibit a range of melting points depending on impurities or crystal structures.",
+    "category": "chemistry"
+  },
+  {
+    "id": 27,
+    "statement": "All substances with a sweet taste are carbohydrates.",
+    "fact": "Not all substances with a sweet taste are carbohydrates. Some artificial sweeteners, like aspartame, are not carbohydrates but provide a sweet taste.",
+    "category": "chemistry"
+  },
+  {
+    "id": 28,
+    "statement": "All chemical reactions require oxygen.",
+    "fact": "Not all chemical reactions require oxygen. Many reactions can occur in the absence of oxygen, such as anaerobic fermentation.",
+    "category": "chemistry"
+  },
+  {
+    "id": 29,
+    "statement": "All chemical compounds are visible to the naked eye.",
+    "fact": "Not all chemical compounds are visible to the naked eye. Many compounds, such as gases or transparent liquids, are not easily visible.",
+    "category": "chemistry"
+  },
+  {
+    "id": 30,
+    "statement": "All compounds with a sour taste are acids.",
+    "fact": "Not all compounds with a sour taste are acids. Some compounds, like citric acid found in lemons, are sour, but others may be sour without exhibiting acidic properties.",
+    "category": "chemistry"
+  },
+  {
+    "id": 31,
+    "statement": "All compounds containing oxygen are flammable.",
+    "fact": "Not all compounds containing oxygen are flammable. Many compounds containing oxygen, like water or rust, are not flammable.",
+    "category": "chemistry"
+  },
+  {
+    "id": 32,
+    "statement": "All substances that dissolve in water are liquids.",
+    "fact": "Not all substances that dissolve in water are liquids. Many solids and gases can dissolve in water as well.",
+    "category": "chemistry"
+  },
+  {
+    "id": 33,
+    "statement": "All chemical compounds are stable under all conditions.",
+    "fact": "Not all chemical compounds are stable under all conditions. Some compounds may be reactive or unstable under certain temperature, pressure, or pH conditions.",
+    "category": "chemistry"
+  },
+  {
+    "id": 34,
+    "statement": "All chemical reactions involve the exchange of electrons.",
+    "fact": "Not all chemical reactions involve the exchange of electrons. Some reactions, like acid-base reactions, involve the transfer of protons (H+) rather than electrons.",
+    "category": "chemistry"
+  },
+  {
+    "id": 35,
+    "statement": "All compounds with a bitter taste are toxic.",
+    "fact": "Not all compounds with a bitter taste are toxic. Some naturally occurring compounds, like caffeine, have a bitter taste but are not highly toxic.",
+    "category": "chemistry"
+  },
+  {
+    "id": 36,
+    "statement": "All chemical compounds have a fixed boiling point.",
+    "fact": "Not all chemical compounds have a fixed boiling point. Many compounds exhibit a range of boiling points depending on factors such as impurities or atmospheric pressure.",
+    "category": "chemistry"
+  },
+  {
+    "id": 37,
+    "statement": "All chemical reactions result in the formation of new substances.",
+    "fact": "While many chemical reactions do result in the formation of new substances, some reactions may only rearrange existing atoms or molecules without creating new ones.",
+    "category": "chemistry"
+  },
+  {
+    "id": 38,
+    "statement": "All chemical compounds are odorless.",
+    "fact": "Many chemical compounds have distinct odors. For example, sulfur compounds often have a strong smell.",
+    "category": "chemistry"
+  },
+  {
+    "id": 39,
+    "statement": "All acids are corrosive.",
+    "fact": "While many acids can be corrosive, not all acids exhibit corrosive properties. Some acids are weak and less corrosive.",
+    "category": "chemistry"
+  },
+  {
+    "id": 40,
+    "statement": "All metals are magnetic.",
+    "fact": "Not all metals are magnetic. Only certain metals, such as iron, nickel, and cobalt, are magnetic.",
+    "category": "chemistry"
+  },
+  {
+    "id": 41,
+    "statement": "All chemical reactions produce heat.",
+    "fact": "Not all chemical reactions produce heat. Some reactions absorb heat and are endothermic.",
+    "category": "chemistry"
+  },
+  {
+    "id": 42,
+    "statement": "All organic compounds are harmful to humans.",
+    "fact": "Not all organic compounds are harmful. Many organic compounds are essential for life and have beneficial effects on humans.",
+    "category": "chemistry"
+  },
+  {
+    "id": 43,
+    "statement": "Oxygen is only present in the gas phase.",
+    "fact": "Oxygen exists in all three states of matter: gas, liquid, and solid, depending on temperature and pressure.",
+    "category": "chemistry"
+  },
+  {
+    "id": 44,
+    "statement": "All chemical compounds have a fixed melting point.",
+    "fact": "Not all chemical compounds have a fixed melting point. Some compounds exhibit a range of melting points depending on impurities or crystal structures.",
+    "category": "chemistry"
+  },
+  {
+    "id": 45,
+    "statement": "All compounds that dissolve in water are salts.",
+    "fact": "Not all compounds that dissolve in water are salts. Many compounds, including sugars and alcohols, can dissolve in water without forming ionic bonds.",
+    "category": "chemistry"
+  },
+  {
+    "id": 46,
+    "statement": "All gases are lighter than air.",
+    "fact": "Not all gases are lighter than air. Some gases, like sulfur hexafluoride, are denser than air and can sink.",
+    "category": "chemistry"
+  },
+  {
+    "id": 47,
+    "statement": "All bases are slippery to the touch.",
+    "fact": "Not all bases are slippery. While many bases are soapy and slippery, some bases may not exhibit this characteristic.",
+    "category": "chemistry"
+  },
+  {
+    "id": 48,
+    "statement": "All noble gases are chemically inert.",
+    "fact": "While noble gases are generally considered chemically inert, some noble gases, such as xenon and krypton, can form compounds under specific conditions.",
+    "category": "chemistry"
+  },
+  {
+    "id": 49,
+    "statement": "All chemical reactions produce bubbles.",
+    "fact": "Not all chemical reactions produce bubbles. Bubbles are often a sign of a gas being released, but many reactions occur without visible gas production.",
+    "category": "chemistry"
+  },
+  {
+    "id": 50,
+    "statement": "All acids have a pH less than 7.",
+    "fact": "While most acids have a pH less than 7, there are exceptions. Some acids, such as acetic acid in vinegar, have a pH slightly higher than 7.",
+    "category": "chemistry"
+  },
+  {
+    "id": 1,
+    "statement": "A computer program can solve any problem.",
+    "fact": "Not all problems can be solved by a computer program. Some problems are undecidable or require an impractical amount of time or resources to solve.",
+    "category": "computer science"
+  },
+  {
+    "id": 2,
+    "statement": "All computer viruses are harmful.",
+    "fact": "While many computer viruses are designed to cause harm, some viruses may be relatively harmless or have non-malicious intentions, such as proof-of-concept viruses.",
+    "category": "computer science"
+  },
+  {
+    "id": 3,
+    "statement": "A computer can perform any task faster than a human.",
+    "fact": "While computers excel at certain tasks, such as complex calculations, humans still outperform computers in many areas, such as creativity, critical thinking, and emotional intelligence.",
+    "category": "computer science"
+  },
+  {
+    "id": 4,
+    "statement": "All computer programs are bug-free.",
+    "fact": "No computer program is completely free of bugs. Even with rigorous testing, it is nearly impossible to eliminate all potential issues and edge cases.",
+    "category": "computer science"
+  },
+  {
+    "id": 5,
+    "statement": "All computer programming languages are the same.",
+    "fact": "Computer programming languages vary significantly in syntax, purpose, and functionality. Each language has its strengths and weaknesses.",
+    "category": "computer science"
+  },
+  {
+    "id": 6,
+    "statement": "All computer networks are secure.",
+    "fact": "Not all computer networks are secure. Many networks face vulnerabilities and security risks, requiring robust security measures to protect against threats.",
+    "category": "computer science"
+  },
+  {
+    "id": 7,
+    "statement": "All computer algorithms are deterministic.",
+    "fact": "Not all computer algorithms are deterministic. Some algorithms incorporate random or probabilistic elements, leading to non-deterministic behavior.",
+    "category": "computer science"
+  },
+  {
+    "id": 8,
+    "statement": "All computer data can be perfectly encrypted.",
+    "fact": "Perfect encryption is theoretically impossible. While encryption algorithms can provide strong security, the possibility of cryptographic vulnerabilities or brute-force attacks remains.",
+    "category": "computer science"
+  },
+  {
+    "id": 9,
+    "statement": "All computer software is proprietary.",
+    "fact": "Not all computer software is proprietary. Open-source software, which is freely available and can be modified by users, is a significant part of the software ecosystem.",
+    "category": "computer science"
+  },
+  {
+    "id": 10,
+    "statement": "All computer algorithms can be solved in constant time.",
+    "fact": "Not all computer algorithms can be solved in constant time. The time complexity of an algorithm depends on its efficiency and problem complexity.",
+    "category": "computer science"
+  },
+  {
+    "id": 11,
+    "statement": "All computer hardware is compatible with any software.",
+    "fact": "Compatibility issues can arise between computer hardware and software, particularly when using different architectures, operating systems, or versions.",
+    "category": "computer science"
+  },
+  {
+    "id": 12,
+    "statement": "All computer memory is volatile.",
+    "fact": "Not all computer memory is volatile. Non-volatile memory, such as solid-state drives (SSDs) and hard disk drives (HDDs), can retain data even when power is lost.",
+    "category": "computer science"
+  },
+  {
+    "id": 13,
+    "statement": "All computer systems are immune to physical damage.",
+    "fact": "Computer systems, like any electronic devices, can be vulnerable to physical damage from factors such as power surges, liquid spills, or physical impact.",
+    "category": "computer science"
+  },
+  {
+    "id": 14,
+    "statement": "All computer programs are written in high-level languages.",
+    "fact": "Not all computer programs are written in high-level languages. Low-level languages like assembly language or machine code are still used in certain contexts.",
+    "category": "computer science"
+  },
+  {
+    "id": 15,
+    "statement": "All computer simulations produce accurate results.",
+    "fact": "The accuracy of computer simulations depends on the quality of the underlying models, input data, and assumptions. Simulations can still be subject to errors and uncertainties.",
+    "category": "computer science"
+  },
+  {
+    "id": 16,
+    "statement": "All computer input devices are keyboards and mice.",
+    "fact": "Computer input devices include a wide range of devices beyond keyboards and mice, such as touchscreens, voice recognition systems, game controllers, and more.",
+    "category": "computer science"
+  },
+  {
+    "id": 17,
+    "statement": "All computer algorithms can be parallelized for faster execution.",
+    "fact": "Not all computer algorithms can be effectively parallelized. Some algorithms have inherent dependencies or sequential steps that limit their parallelization potential.",
+    "category": "computer science"
+  },
+  {
+    "id": 18,
+    "statement": "All computer data can be perfectly recovered after deletion.",
+    "fact": "Data recovery after deletion is not always possible. It depends on factors such as the type of storage media, the method of deletion, and potential data overwriting.",
+    "category": "computer science"
+  },
+  {
+    "id": 19,
+    "statement": "All computer programs require an internet connection to function.",
+    "fact": "Many computer programs can function without an internet connection. While some applications rely on internet connectivity, offline functionality is common for many software applications.",
+    "category": "computer science"
+  },
+  {
+    "id": 20,
+    "statement": "All computer operating systems are vulnerable to malware.",
+    "fact": "While many computer operating systems face malware risks, robust security measures and regular updates can mitigate vulnerabilities and reduce the risk of malware infections.",
+    "category": "computer science"
+  },
+  {
+    "id": 21,
+    "statement": "All computer files can be compressed without loss of data.",
+    "fact": "Lossless compression methods can reduce file sizes without loss of data, but not all file types can be efficiently compressed, and some compression methods introduce data loss.",
+    "category": "computer science"
+  },
+  {
+    "id": 22,
+    "statement": "All computer programs require human intervention to operate.",
+    "fact": "Many computer programs, particularly automated or background processes, can operate without direct human intervention, following predefined instructions or algorithms.",
+    "category": "computer science"
+  },
+  {
+    "id": 23,
+    "statement": "All computer networks operate at the same speed.",
+    "fact": "Computer networks can operate at different speeds depending on factors such as network infrastructure, bandwidth limitations, and network congestion.",
+    "category": "computer science"
+  },
+  {
+    "id": 24,
+    "statement": "All computer monitors use the same display technology.",
+    "fact": "Computer monitors employ various display technologies, including LCD, LED, OLED, and CRT, each with distinct features, advantages, and limitations.",
+    "category": "computer science"
+  },
+  {
+    "id": 25,
+    "statement": "All computer programs execute sequentially from start to finish.",
+    "fact": "Not all computer programs execute sequentially. Concurrent and parallel programming techniques allow multiple tasks or instructions to execute simultaneously or independently.",
+    "category": "computer science"
+  },
+  {
+    "id": 26,
+    "statement": "All computer algorithms terminate.",
+    "fact": "Not all computer algorithms terminate. Some algorithms, known as non-terminating or infinite loops, continue executing indefinitely.",
+    "category": "computer science"
+  },
+  {
+    "id": 27,
+    "statement": "All computer programming languages are interpreted.",
+    "fact": "Not all computer programming languages are interpreted. Some languages, like C or C++, are compiled into machine code before execution.",
+    "category": "computer science"
+  },
+  {
+    "id": 28,
+    "statement": "All computer processors have the same architecture.",
+    "fact": "Computer processors have different architectures, such as x86, ARM, PowerPC, and RISC-V, each with its own instruction set and design philosophy.",
+    "category": "computer science"
+  },
+  {
+    "id": 29,
+    "statement": "All computer programs are deterministic.",
+    "fact": "Not all computer programs are deterministic. Some programs incorporate random or non-deterministic elements, resulting in different outputs for the same inputs.",
+    "category": "computer science"
+  },
+  {
+    "id": 30,
+    "statement": "All computer networks are connected to the internet.",
+    "fact": "Not all computer networks are connected to the internet. Many private networks, intranets, and local area networks (LANs) operate independently of the internet.",
+    "category": "computer science"
+  },
+  {
+    "id": 31,
+    "statement": "All computer algorithms have a single correct solution.",
+    "fact": "Not all computer algorithms have a single correct solution. Some problems may have multiple valid solutions or algorithms with trade-offs and performance differences.",
+    "category": "computer science"
+  },
+  {
+    "id": 32,
+    "statement": "All computer files are stored as plain text.",
+    "fact": "Computer files can be stored in various formats, including plain text, binary formats, compressed formats, or proprietary file formats specific to certain applications.",
+    "category": "computer science"
+  },
+  {
+    "id": 33,
+    "statement": "All computer systems require an operating system to function.",
+    "fact": "While most general-purpose computers require an operating system, some embedded systems or specialized hardware may operate with dedicated firmware or software.",
+    "category": "computer science"
+  },
+  {
+    "id": 34,
+    "statement": "All computer programs are vulnerable to hacking.",
+    "fact": "While many computer programs face security risks, robust security measures, best practices, and regular updates can significantly reduce the vulnerability to hacking.",
+    "category": "computer science"
+  },
+  {
+    "id": 35,
+    "statement": "All computer programs execute at the same speed on different computers.",
+    "fact": "The execution speed of computer programs can vary significantly based on factors such as processor speed, memory capacity, storage type, and overall system performance.",
+    "category": "computer science"
+  },
+  {
+    "id": 36,
+    "statement": "All computer algorithms have a fixed time complexity.",
+    "fact": "The time complexity of computer algorithms can vary based on factors such as input size, algorithmic design, and implementation details, resulting in different time complexities.",
+    "category": "computer science"
+  },
+  {
+    "id": 37,
+    "statement": "All computer programs operate with perfect accuracy.",
+    "fact": "Computer programs can be susceptible to errors, bugs, or unexpected inputs, leading to incorrect or inaccurate results. Testing and debugging processes aim to identify and fix such issues.",
+    "category": "computer science"
+  },
+  {
+    "id": 38,
+    "statement": "All computer algorithms require infinite storage capacity.",
+    "fact": "Not all computer algorithms require infinite storage capacity. Many algorithms operate within finite memory constraints and efficiently utilize available storage.",
+    "category": "computer science"
+  },
+  {
+    "id": 39,
+    "statement": "All computer programming languages are case-insensitive.",
+    "fact": "Computer programming languages can be case-insensitive or case-sensitive. Some languages, like HTML or CSS, are case-insensitive, while others, like Python or C, are case-sensitive.",
+    "category": "computer science"
+  },
+  {
+    "id": 40,
+    "statement": "All computer networks operate at the same latency.",
+    "fact": "Computer networks can have varying levels of latency depending on factors such as network infrastructure, distance, congestion, and data transfer protocols.",
+    "category": "computer science"
+  },
+  {
+    "id": 41,
+    "statement": "All computer programs are developed by professional software engineers.",
+    "fact": "Computer programs can be developed by a range of individuals, including hobbyists, researchers, students, and non-professional programmers, as well as professional software engineers.",
+    "category": "computer science"
+  },
+  {
+    "id": 42,
+    "statement": "All computer data can be accurately represented using binary digits.",
+    "fact": "Not all computer data can be accurately represented using binary digits. Some data types, such as real numbers or complex data structures, may require additional encoding schemes or representation formats.",
+    "category": "computer science"
+  },
+  {
+    "id": 43,
+    "statement": "All computer programs are executed sequentially line by line.",
+    "fact": "Not all computer programs are executed sequentially line by line. Control structures like conditionals and loops can alter the flow of program execution.",
+    "category": "computer science"
+  },
+  {
+    "id": 44,
+    "statement": "All computer processors operate at the same clock speed.",
+    "fact": "Computer processors can have different clock speeds depending on factors such as architecture, generation, and intended usage. Higher clock speeds do not necessarily indicate better performance.",
+    "category": "computer science"
+  },
+  {
+    "id": 45,
+    "statement": "All computer software is error-free.",
+    "fact": "No computer software is completely error-free. Even well-tested software may contain bugs or unintended behaviors that require updates or patches.",
+    "category": "computer science"
+  },
+  {
+    "id": 46,
+    "statement": "All computer algorithms require perfect input data.",
+    "fact": "Computer algorithms can handle imperfect or noisy input data. Many algorithms incorporate error handling, validation, and data cleansing techniques to handle various input scenarios.",
+    "category": "computer science"
+  },
+  {
+    "id": 47,
+    "statement": "All computer programs require a graphical user interface (GUI).",
+    "fact": "Not all computer programs require a graphical user interface. Some programs, like background processes or command-line utilities, can operate without a GUI.",
+    "category": "computer science"
+  },
+  {
+    "id": 48,
+    "statement": "All computer files are accessible and readable by any computer.",
+    "fact": "Computer files can have different file formats, compatibility requirements, and access permissions, leading to variations in their accessibility and readability across different systems.",
+    "category": "computer science"
+  },
+  {
+    "id": 49,
+    "statement": "All computer programs execute with perfect memory management.",
+    "fact": "Memory management in computer programs can be complex, and issues like memory leaks or inefficient memory usage can impact performance and stability.",
+    "category": "computer science"
+  },
+  {
+    "id": 50,
+    "statement": "All computer networks operate at the same security level.",
+    "fact": "Computer networks can have different security levels based on factors such as network architecture, encryption protocols, access controls, and security measures implemented.",
+    "category": "computer science"
+  },
+  {
+    "id": 1,
+    "statement": "All mammals lay eggs.",
+    "fact": "Mammals are characterized by giving birth to live young, not laying eggs. Egg-laying animals are called oviparous, and mammals are viviparous.",
+    "category": "biology"
+  },
+  {
+    "id": 2,
+    "statement": "All plants are carnivorous.",
+    "fact": "Not all plants are carnivorous. Most plants are autotrophs and obtain nutrients through photosynthesis, while carnivorous plants are a small subset that obtain some nutrients from trapping and consuming small animals.",
+    "category": "biology"
+  },
+  {
+    "id": 3,
+    "statement": "All bacteria are harmful to humans.",
+    "fact": "Not all bacteria are harmful to humans. Many bacteria are essential for various biological processes, and some bacteria are even beneficial to human health.",
+    "category": "biology"
+  },
+  {
+    "id": 4,
+    "statement": "All reptiles are venomous.",
+    "fact": "Not all reptiles are venomous. While some reptiles, such as snakes, have venomous species, many reptiles, including turtles and crocodiles, are not venomous.",
+    "category": "biology"
+  },
+  {
+    "id": 5,
+    "statement": "All birds can fly.",
+    "fact": "Not all birds can fly. Flightless birds, such as ostriches, penguins, and emus, have evolved to have wings that are adapted for other functions like swimming or running.",
+    "category": "biology"
+  },
+  {
+    "id": 6,
+    "statement": "All fungi are parasites.",
+    "fact": "Not all fungi are parasites. While some fungi are parasitic and obtain nutrients from other organisms, many fungi are saprophytic, decomposing organic matter, or mutualistic, forming symbiotic relationships with other organisms.",
+    "category": "biology"
+  },
+  {
+    "id": 7,
+    "statement": "All plants undergo photosynthesis in the absence of light.",
+    "fact": "Plants require light for photosynthesis to occur. In the absence of light, plants cannot carry out photosynthesis and rely on stored energy reserves.",
+    "category": "biology"
+  },
+  {
+    "id": 8,
+    "statement": "All mammals have the same reproductive strategies.",
+    "fact": "Mammals have diverse reproductive strategies. Some mammals lay eggs (monotremes), while most give live birth (placentals and marsupials), and reproductive strategies vary across species.",
+    "category": "biology"
+  },
+  {
+    "id": 9,
+    "statement": "All animals have the same number of legs.",
+    "fact": "Animals have varying numbers of legs. Some have no legs (snakes), some have two legs (birds), some have four legs (dogs), and some have more than four legs (insects).",
+    "category": "biology"
+  },
+  {
+    "id": 10,
+    "statement": "All viruses are living organisms.",
+    "fact": "Viruses are not considered living organisms. They lack cellular structures and cannot reproduce or carry out metabolic processes independently. They rely on host cells to replicate.",
+    "category": "biology"
+  },
+  {
+    "id": 11,
+    "statement": "All fish live in saltwater.",
+    "fact": "Fish inhabit a variety of aquatic environments, including freshwater, brackish water, and saltwater. Some species can adapt to different salinity levels.",
+    "category": "biology"
+  },
+  {
+    "id": 12,
+    "statement": "All mammals have the same diet.",
+    "fact": "Mammals have diverse diets. Some are herbivores, feeding on plants, while others are carnivores, consuming meat. Omnivorous mammals eat both plant and animal matter.",
+    "category": "biology"
+  },
+  {
+    "id": 13,
+    "statement": "All plants reproduce through seeds.",
+    "fact": "Not all plants reproduce through seeds. Some plants reproduce through spores, bulbs, runners, or vegetative propagation methods like cuttings or grafting.",
+    "category": "biology"
+  },
+  {
+    "id": 14,
+    "statement": "All insects have wings.",
+    "fact": "Not all insects have wings. While many insects have wings at some stage of their life cycle, some insects, like silverfish or fleas, are wingless.",
+    "category": "biology"
+  },
+  {
+    "id": 15,
+    "statement": "All mammals are the same size.",
+    "fact": "Mammals vary greatly in size. From tiny shrews to massive whales, mammals exhibit a wide range of sizes and body forms.",
+    "category": "biology"
+  },
+  {
+    "id": 16,
+    "statement": "All bacteria are visible to the naked eye.",
+    "fact": "Bacteria are generally microscopic and cannot be seen with the naked eye. They require magnification through microscopes to be observed.",
+    "category": "biology"
+  },
+  {
+    "id": 17,
+    "statement": "All animals reproduce sexually.",
+    "fact": "Not all animals reproduce sexually. Some animals, like certain species of jellyfish and aphids, can reproduce asexually, without the need for mating.",
+    "category": "biology"
+  },
+  {
+    "id": 18,
+    "statement": "All plants have green leaves.",
+    "fact": "Not all plants have green leaves. Some plants, like succulents, have leaves with different colors, while others, like ghost plants, have translucent or colorless leaves.",
+    "category": "biology"
+  },
+  {
+    "id": 19,
+    "statement": "All animals have the same lifespan.",
+    "fact": "Animals have different lifespans. Some animals, like mayflies, have very short lifespans of a few hours or days, while others, like tortoises, can live for several decades or even centuries.",
+    "category": "biology"
+  },
+  {
+    "id": 20,
+    "statement": "All mammals have the same body temperature.",
+    "fact": "Mammals have different body temperatures. While most mammals are endothermic, maintaining a relatively constant body temperature, their actual body temperatures can vary significantly.",
+    "category": "biology"
+  },
+  {
+    "id": 21,
+    "statement": "All plants require direct sunlight to grow.",
+    "fact": "While most plants require sunlight for photosynthesis, some plants can grow in low light conditions or shade. Certain plants are adapted to thrive in indirect or filtered light.",
+    "category": "biology"
+  },
+  {
+    "id": 22,
+    "statement": "All animals are vertebrates.",
+    "fact": "Not all animals are vertebrates. Animals are categorized into vertebrates (with backbones) and invertebrates (without backbones), which constitute the majority of animal species.",
+    "category": "biology"
+  },
+  {
+    "id": 23,
+    "statement": "All animals have the same number of chromosomes.",
+    "fact": "Animals have different numbers of chromosomes. Chromosome numbers can vary widely among different animal species and even within the same species.",
+    "category": "biology"
+  },
+  {
+    "id": 24,
+    "statement": "All plants have the same type of root system.",
+    "fact": "Plants have different types of root systems. Some plants have taproots, while others have fibrous roots or adventitious roots, depending on their growth habit and environment.",
+    "category": "biology"
+  },
+  {
+    "id": 25,
+    "statement": "All insects undergo complete metamorphosis.",
+    "fact": "Not all insects undergo complete metamorphosis. Some insects, like silverfish or grasshoppers, undergo incomplete metamorphosis, with gradual changes in form and development.",
+    "category": "biology"
+  },
+  {
+    "id": 26,
+    "statement": "All animals have the same type of circulatory system.",
+    "fact": "Animals have different types of circulatory systems. Some animals have open circulatory systems, while others have closed circulatory systems, varying in complexity and efficiency.",
+    "category": "biology"
+  },
+  {
+    "id": 27,
+    "statement": "All plants require the same amount of water to survive.",
+    "fact": "Plants have different water requirements. Some plants are adapted to arid conditions and require less water, while others thrive in moist environments and need more water.",
+    "category": "biology"
+  },
+  {
+    "id": 28,
+    "statement": "All animals have the same type of digestive system.",
+    "fact": "Animals have different types of digestive systems. Some animals have simple digestive systems, while others have more complex digestive systems with multiple chambers.",
+    "category": "biology"
+  },
+  {
+    "id": 29,
+    "statement": "All animals have the same sensory organs.",
+    "fact": "Animals have different sensory organs. While many animals have similar sensory organs like eyes and ears, the structure and capabilities can vary across different species.",
+    "category": "biology"
+  },
+  {
+    "id": 30,
+    "statement": "All plants reproduce through pollination.",
+    "fact": "Not all plants reproduce through pollination. Some plants, like ferns or mosses, reproduce through spores, which do not involve pollination.",
+    "category": "biology"
+  },
+  {
+    "id": 31,
+    "statement": "All animals are capable of producing sound.",
+    "fact": "Not all animals are capable of producing sound. While many animals can vocalize, some, like snakes or jellyfish, do not have vocal apparatuses.",
+    "category": "biology"
+  },
+  {
+    "id": 32,
+    "statement": "All plants have the same reproductive structures.",
+    "fact": "Plants have different reproductive structures. Some plants have flowers for sexual reproduction, while others reproduce through cones, spores, or vegetative propagation.",
+    "category": "biology"
+  },
+  {
+    "id": 33,
+    "statement": "All animals have the same locomotion abilities.",
+    "fact": "Animals have diverse locomotion abilities. Some animals can walk, run, swim, fly, crawl, or burrow, depending on their anatomical adaptations and ecological niche.",
+    "category": "biology"
+  },
+  {
+    "id": 34,
+    "statement": "All plants are green in color.",
+    "fact": "Not all plants are green. Some plants have leaves or stems with different colors, such as red, purple, or variegated patterns.",
+    "category": "biology"
+  },
+  {
+    "id": 35,
+    "statement": "All animals have the same respiratory system.",
+    "fact": "Animals have different types of respiratory systems. Some animals have gills for underwater respiration, while others have lungs or tracheal systems for terrestrial respiration.",
+    "category": "biology"
+  },
+  {
+    "id": 36,
+    "statement": "All plants undergo photosynthesis at all times.",
+    "fact": "Plants undergo photosynthesis when exposed to light. In the absence of light, plants respire and may rely on stored energy reserves for survival.",
+    "category": "biology"
+  },
+  {
+    "id": 37,
+    "statement": "All animals have the same reproductive organs.",
+    "fact": "Animals have different reproductive organs. Reproductive organs can vary across species in terms of structure, function, and mating behaviors.",
+    "category": "biology"
+  },
+  {
+    "id": 38,
+    "statement": "All plants have the same growth habit.",
+    "fact": "Plants have different growth habits. Some plants are annuals, completing their life cycle in a single year, while others are perennials, living for multiple years.",
+    "category": "biology"
+  },
+  {
+    "id": 39,
+    "statement": "All animals have the same type of excretory system.",
+    "fact": "Animals have different types of excretory systems. Some animals excrete waste products through kidneys, while others use specialized structures like malpighian tubules or gills.",
+    "category": "biology"
+  },
+  {
+    "id": 40,
+    "statement": "All plants have the same type of stems.",
+    "fact": "Plants have different types of stems. Some plants have woody stems, while others have herbaceous stems or modified stem structures like cacti or vines.",
+    "category": "biology"
+  },
+  {
+    "id": 41,
+    "statement": "All animals have the same defense mechanisms.",
+    "fact": "Animals have different defense mechanisms. Some animals use camouflage, others have physical adaptations, toxins, or behavioral strategies to defend themselves.",
+    "category": "biology"
+  },
+  {
+    "id": 42,
+    "statement": "All plants have the same type of reproductive cells.",
+    "fact": "Plants have different types of reproductive cells. Some plants produce pollen grains, while others produce spores or gametes through different reproductive structures.",
+    "category": "biology"
+  },
+  {
+    "id": 43,
+    "statement": "All animals have the same type of locomotor appendages.",
+    "fact": "Animals have different types of locomotor appendages. Some animals have limbs, wings, fins, or specialized structures like tentacles or pseudopods for movement.",
+    "category": "biology"
+  },
+  {
+    "id": 44,
+    "statement": "All plants have the same type of flowers.",
+    "fact": "Plants have different types of flowers. Some plants have simple flowers with basic structures, while others have complex flowers with multiple parts and specialized features.",
+    "category": "biology"
+  },
+  {
+    "id": 45,
+    "statement": "All animals have the same lifespan.",
+    "fact": "Animals have different lifespans. Lifespan can vary significantly across different animal species and can be influenced by factors like size, environment, and metabolic rate.",
+    "category": "biology"
+  },
+  {
+    "id": 46,
+    "statement": "All plants require the same type of soil to grow.",
+    "fact": "Plants have different soil requirements. Some plants thrive in well-drained soil, while others prefer acidic or alkaline soil, or have specific nutrient requirements.",
+    "category": "biology"
+  },
+  {
+    "id": 47,
+    "statement": "All animals have the same mating behaviors.",
+    "fact": "Animals have diverse mating behaviors. Mating behaviors can vary greatly, including courtship displays, territoriality, monogamy, polygamy, or complex mating rituals.",
+    "category": "biology"
+  },
+  {
+    "id": 48,
+    "statement": "All plants have the same type of leaves.",
+    "fact": "Plants have different types of leaves. Leaf structures, shapes, sizes, and arrangements vary across different plant species and their environmental adaptations.",
+    "category": "biology"
+  },
+  {
+    "id": 49,
+    "statement": "All animals have the same sleep patterns.",
+    "fact": "Animals have different sleep patterns. Some animals are nocturnal, diurnal, or crepuscular, exhibiting activity and rest cycles adapted to their ecological niche.",
+    "category": "biology"
+  },
+  {
+    "id": 50,
+    "statement": "All plants have the same method of seed dispersal.",
+    "fact": "Plants have different methods of seed dispersal. Some plants disperse seeds through wind, others rely on animals, water, or mechanical means for dispersal.",
+    "category": "biology"
+  },
+  {
+    "id": 1,
+    "statement": "All historical figures were men.",
+    "fact": "Historical figures include both men and women who have played significant roles in shaping history. Women have made important contributions throughout history.",
+    "category": "history"
+  },
+  {
+    "id": 2,
+    "statement": "All historical events are accurately documented.",
+    "fact": "Historical events are often subject to biases, limited documentation, or different interpretations, leading to challenges in establishing absolute accuracy.",
+    "category": "history"
+  },
+  {
+    "id": 3,
+    "statement": "All historical civilizations existed concurrently.",
+    "fact": "Historical civilizations have emerged and thrived at different times throughout history, with varying periods of existence and overlap.",
+    "category": "history"
+  },
+  {
+    "id": 4,
+    "statement": "All historical wars had clear winners and losers.",
+    "fact": "Some historical wars ended with negotiated settlements or stalemates, without clear winners or losers. The outcomes of conflicts can be complex and multifaceted.",
+    "category": "history"
+  },
+  {
+    "id": 5,
+    "statement": "All historical documents are preserved and intact.",
+    "fact": "Historical documents can be lost, destroyed, or fragmented over time, resulting in gaps in historical records and incomplete preservation.",
+    "category": "history"
+  },
+  {
+    "id": 6,
+    "statement": "All historical empires were expansionist.",
+    "fact": "While many historical empires engaged in territorial expansion, not all empires followed expansionist policies. Some empires focused on consolidation or cultural influence.",
+    "category": "history"
+  },
+  {
+    "id": 7,
+    "statement": "All historical revolutions resulted in positive outcomes.",
+    "fact": "Historical revolutions can have mixed outcomes, with both positive and negative consequences. Some revolutions led to positive change, while others resulted in turmoil or regression.",
+    "category": "history"
+  },
+  {
+    "id": 8,
+    "statement": "All historical leaders were universally revered.",
+    "fact": "Historical leaders can evoke diverse opinions and perceptions. While some leaders are widely revered, others may be viewed differently based on cultural, political, or historical contexts.",
+    "category": "history"
+  },
+  {
+    "id": 9,
+    "statement": "All historical societies had the same social structure.",
+    "fact": "Historical societies had diverse social structures, including hierarchies, class divisions, or caste systems, which varied across different cultures and time periods.",
+    "category": "history"
+  },
+  {
+    "id": 10,
+    "statement": "All historical discoveries were intentional.",
+    "fact": "Some historical discoveries were accidental or unexpected, often resulting from serendipitous encounters or unintended consequences.",
+    "category": "history"
+  },
+  {
+    "id": 11,
+    "statement": "All historical periods had similar technological advancements.",
+    "fact": "Technological advancements vary across historical periods. Different eras experienced distinct technological innovations, influenced by scientific progress and cultural factors.",
+    "category": "history"
+  },
+  {
+    "id": 12,
+    "statement": "All historical conflicts were motivated by religious differences.",
+    "fact": "While religious differences have played a role in some historical conflicts, conflicts have also been driven by political, territorial, economic, or ideological factors.",
+    "category": "history"
+  },
+  {
+    "id": 13,
+    "statement": "All historical art followed the same artistic style.",
+    "fact": "Historical art encompassed various artistic styles and movements that evolved over time, reflecting cultural, regional, and individual preferences.",
+    "category": "history"
+  },
+  {
+    "id": 14,
+    "statement": "All historical societies had the same economic systems.",
+    "fact": "Historical societies employed different economic systems, including subsistence economies, barter systems, feudalism, mercantilism, or various forms of capitalism.",
+    "category": "history"
+  },
+  {
+    "id": 15,
+    "statement": "All historical figures were universally understood and appreciated.",
+    "fact": "Historical figures can be subject to diverse interpretations and perceptions, and their understanding and appreciation can vary across different cultures and time periods.",
+    "category": "history"
+  },
+  {
+    "id": 16,
+    "statement": "All historical treaties were honored and fulfilled.",
+    "fact": "Some historical treaties were violated or not fully implemented, as political circumstances, power dynamics, or changing priorities influenced their outcomes.",
+    "category": "history"
+  },
+  {
+    "id": 17,
+    "statement": "All historical societies had the same legal systems.",
+    "fact": "Historical societies developed different legal systems influenced by cultural, religious, and societal norms, leading to variations in legal principles and practices.",
+    "category": "history"
+  },
+  {
+    "id": 18,
+    "statement": "All historical figures had the same moral values.",
+    "fact": "Historical figures held diverse moral values influenced by cultural, social, and personal beliefs, which can vary across individuals and historical contexts.",
+    "category": "history"
+  },
+  {
+    "id": 19,
+    "statement": "All historical accounts were objective and unbiased.",
+    "fact": "Historical accounts can be influenced by biases, perspectives, or limitations of available evidence, leading to subjective interpretations and potential biases.",
+    "category": "history"
+  },
+  {
+    "id": 20,
+    "statement": "All historical civilizations had the same level of technological sophistication.",
+    "fact": "Historical civilizations exhibited different levels of technological advancement, influenced by factors such as available resources, cultural factors, and scientific knowledge.",
+    "category": "history"
+  },
+  {
+    "id": 21,
+    "statement": "All historical events had clear causes and effects.",
+    "fact": "Historical events can have complex causes and effects, influenced by multiple factors and interconnections, making it challenging to establish clear causal relationships.",
+    "category": "history"
+  },
+  {
+    "id": 22,
+    "statement": "All historical figures were accurately portrayed in contemporary sources.",
+    "fact": "Contemporary sources can be influenced by bias, propaganda, or limited information, leading to potential inaccuracies or skewed representations of historical figures.",
+    "category": "history"
+  },
+  {
+    "id": 23,
+    "statement": "All historical conflicts were resolved through peaceful means.",
+    "fact": "Historical conflicts have been resolved through various means, including negotiations, diplomacy, or peaceful settlements, as well as through military actions or coercion.",
+    "category": "history"
+  },
+  {
+    "id": 24,
+    "statement": "All historical societies had the same gender roles.",
+    "fact": "Historical societies had diverse gender roles, varying across cultures and time periods, with differences in social expectations, rights, and responsibilities for men and women.",
+    "category": "history"
+  },
+  {
+    "id": 25,
+    "statement": "All historical innovations were intentional and planned.",
+    "fact": "Some historical innovations were accidental or emerged through trial and error, while others were the result of deliberate research and intentional experimentation.",
+    "category": "history"
+  },
+  {
+    "id": 26,
+    "statement": "All historical leaders were motivated by altruistic intentions.",
+    "fact": "Historical leaders were driven by a range of motivations, including self-interest, power, ideology, or a combination of factors, rather than solely altruistic intentions.",
+    "category": "history"
+  },
+  {
+    "id": 27,
+    "statement": "All historical civilizations had the same cultural practices.",
+    "fact": "Cultural practices varied across historical civilizations, encompassing diverse religious beliefs, artistic expressions, social customs, and traditions.",
+    "category": "history"
+  },
+  {
+    "id": 28,
+    "statement": "All historical events had the same level of global significance.",
+    "fact": "Historical events can have varying degrees of global significance, with some events impacting a particular region or culture more prominently than others.",
+    "category": "history"
+  },
+  {
+    "id": 29,
+    "statement": "All historical societies had the same education systems.",
+    "fact": "Education systems in historical societies varied, ranging from informal apprenticeships to formal schooling, influenced by cultural, social, and economic factors.",
+    "category": "history"
+  },
+  {
+    "id": 30,
+    "statement": "All historical figures were universally recognized during their lifetimes.",
+    "fact": "Recognition and fame of historical figures can vary during their lifetimes, with some figures achieving posthumous recognition or gaining prominence in later periods.",
+    "category": "history"
+  },
+  {
+    "id": 31,
+    "statement": "All historical conflicts had clear-cut good and evil sides.",
+    "fact": "Historical conflicts often involve complex dynamics and multiple actors, making it challenging to categorize them into simplistic good versus evil narratives.",
+    "category": "history"
+  },
+  {
+    "id": 32,
+    "statement": "All historical societies had the same artistic preferences.",
+    "fact": "Artistic preferences varied across historical societies, influenced by cultural, religious, and aesthetic factors, resulting in diverse artistic styles and traditions.",
+    "category": "history"
+  },
+  {
+    "id": 33,
+    "statement": "All historical events had the same degree of historical consensus.",
+    "fact": "Historical events can have varying degrees of consensus among historians, with some events having a greater level of consensus, while others may still be subject to debates and differing interpretations.",
+    "category": "history"
+  },
+  {
+    "id": 34,
+    "statement": "All historical figures had the same impact on society.",
+    "fact": "Historical figures had varying impacts on society, ranging from local influences to global significance, depending on their actions, ideas, or leadership.",
+    "category": "history"
+  },
+  {
+    "id": 35,
+    "statement": "All historical civilizations had the same level of political organization.",
+    "fact": "Political organization varied among historical civilizations, ranging from simple tribal societies to complex empires with centralized governments and bureaucratic systems.",
+    "category": "history"
+  },
+  {
+    "id": 36,
+    "statement": "All historical events had the same level of historical documentation.",
+    "fact": "The level of historical documentation can vary for different events, with some events having extensive documentation, while others may have limited or fragmented sources.",
+    "category": "history"
+  },
+  {
+    "id": 37,
+    "statement": "All historical societies had the same religious beliefs.",
+    "fact": "Religious beliefs varied across historical societies, encompassing different religions, mythologies, or spiritual practices, reflecting diverse cultural and philosophical traditions.",
+    "category": "history"
+  },
+  {
+    "id": 38,
+    "statement": "All historical scientific discoveries were universally accepted.",
+    "fact": "Scientific discoveries in history often faced initial skepticism or resistance before gaining acceptance, as paradigms and prevailing beliefs influenced scientific discourse.",
+    "category": "history"
+  },
+  {
+    "id": 39,
+    "statement": "All historical figures had the same level of influence on future generations.",
+    "fact": "The influence of historical figures on future generations can vary, with some figures having a lasting impact while others may have limited influence or be forgotten over time.",
+    "category": "history"
+  },
+  {
+    "id": 40,
+    "statement": "All historical societies had the same forms of communication.",
+    "fact": "Forms of communication varied across historical societies, ranging from oral traditions, pictographic systems, or written languages, influenced by cultural and technological factors.",
+    "category": "history"
+  },
+  {
+    "id": 41,
+    "statement": "All historical events had the same level of public awareness.",
+    "fact": "The level of public awareness of historical events can vary, with some events being widely known and others being relatively obscure or known only to specific communities.",
+    "category": "history"
+  },
+  {
+    "id": 42,
+    "statement": "All historical societies had the same agricultural practices.",
+    "fact": "Agricultural practices varied across historical societies, influenced by climate, geographical factors, available resources, and technological advancements.",
+    "category": "history"
+  },
+  {
+    "id": 43,
+    "statement": "All historical figures had the same motives for their actions.",
+    "fact": "Historical figures were driven by diverse motives, including personal ambition, ideological beliefs, religious convictions, or political considerations.",
+    "category": "history"
+  },
+  {
+    "id": 44,
+    "statement": "All historical civilizations had the same level of cultural exchange.",
+    "fact": "Cultural exchange varied among historical civilizations, influenced by factors such as geographic proximity, trade networks, conquests, or diplomatic relations.",
+    "category": "history"
+  },
+  {
+    "id": 45,
+    "statement": "All historical events had the same level of long-term significance.",
+    "fact": "The long-term significance of historical events can vary, with some events having enduring impacts on societies and shaping future developments, while others may have more limited or localized effects.",
+    "category": "history"
+  },
+  {
+    "id": 46,
+    "statement": "All historical figures had the same level of historical recognition.",
+    "fact": "Historical recognition of figures can vary, with some figures being recognized and celebrated during their lifetimes, while others gain recognition posthumously or in later periods.",
+    "category": "history"
+  },
+  {
+    "id": 47,
+    "statement": "All historical societies had the same views on gender and sexuality.",
+    "fact": "Views on gender and sexuality varied across historical societies, reflecting diverse cultural, religious, and social norms and attitudes.",
+    "category": "history"
+  },
+  {
+    "id": 48,
+    "statement": "All historical events had the same level of documentation and evidence.",
+    "fact": "The level of documentation and evidence for historical events can vary, with some events having extensive records and evidence, while others may have limited or fragmented documentation.",
+    "category": "history"
+  },
+  {
+    "id": 49,
+    "statement": "All historical figures had the same political ideologies.",
+    "fact": "Historical figures held different political ideologies, ranging from monarchists to democrats, socialists to conservatives, reflecting diverse political beliefs and movements throughout history.",
+    "category": "history"
+  },
+  {
+    "id": 50,
+    "statement": "All historical civilizations had the same perception of beauty and aesthetics.",
+    "fact": "Perceptions of beauty and aesthetics varied across historical civilizations, with different cultures and time periods valuing different artistic styles, ideals, and aesthetic preferences.",
+    "category": "history"
+  }
+]
